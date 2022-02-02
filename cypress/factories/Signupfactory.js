@@ -10,7 +10,7 @@ export default {
 
     var data = {
         name: `${firstName} ${lastName}`,
-        cpf: cpf.generate(),
+        cpf: '60832346977',
         email: faker.internet.email(firstName),
         whatsapp: '34999999999',
         address: {
